@@ -1,14 +1,14 @@
-## ElectronShoppingList
+# ElectronShoppingList
  Simple shopping list app built using ELECTRON
 
-# To install:
+## To install:
 npm install
 
-# To build for Windows:
+## To build for Windows:
 npm run package-win
 
-# To build for Mac:
+## To build for Mac:
 npm run package-mac
 
-# To build for Linux:
+## To build for Linux:
 npm run package-linux
